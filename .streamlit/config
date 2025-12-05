@@ -1,0 +1,12 @@
+[theme]
+primaryColor = "#1E90FF" 
+backgroundColor = "#F4F9FF" 
+secondaryBackgroundColor = "#D6EFFF"  
+textColor = "#0A1F44"                  
+font = "sans serif"
+
+# Options complètes
+[theme.custom]
+successColor = "#3CB043"  
+warningColor = "#FFD700"   
+errorColor = "#FF4C4C"   
